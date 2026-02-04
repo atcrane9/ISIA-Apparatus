@@ -35,8 +35,8 @@ Full print settings found here:\
   * For **0.6mm** Nozzle -> 0.4mm layer height
   
 
-# Acknowledgments - Special Thanks to:
+# Acknowledgments
 
-* Original designs by [Aaron Crane](https://github.com/atcrane9)
+* [Aaron Crane](https://github.com/atcrane9) - Original designs for the Cap, Adapter, Inner and Outer Gates, updates to the Tube design, and compatibility of entire ensamble
 * [The AER Lab](https://github.com/AER-Lab)
-* First iteration of Tube, Restrictor (Insert), and Flange designed by [Matt Gaidica](https:// github.com/mattgaidica)
+* [Matt Gaidica](https:// github.com/mattgaidica) - First iteration design of Tube, Restrictor (Insert), and Flange
