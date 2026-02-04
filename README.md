@@ -22,8 +22,8 @@ Nozzles used were either 0.4mm or 0.6mm, depending on specific part
 All parts sliced (aka rendered) using PrusaSlicer 2.9.2
 
 Full print settings found here:\
-[0.4mm Nozzle](0.4nozzle_settings_no_support.ini)\
-[0.6mm Nozzle](0.6nozzle_settings_no_support.ini)
+[0.4mm Nozzle](PrinterSettings/0.4nozzle_settings_no_support.ini)\
+[0.6mm Nozzle](PrinterSettings/0.6nozzle_settings_no_support.ini)
 
 ### Key Settings
 * No skirt, no brim, no support material, no raft 
