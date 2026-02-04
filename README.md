@@ -1,1 +1,42 @@
 # ISIA-Apparatus
+
+The "Immersive Social Interactions Assay" (ISIA) apparatus is a modular system designed to connect multiple mouse cages together, while allowing the option to restrict certain mice to specific cages.
+
+The link to methods paper for this apparatus can be found [here] ()
+
+## Hardware
+
+All files were printed using a Prusa i3 MKS3\
+Nozzles used were either 0.4mm or 0.6mm, depending on specific part
+* Must be printed using 0.4mm nozzle
+  * Cap
+  * Adapter
+  * Inner Gate
+  * Outer Gate
+* Can be printed using 0.6mm nozzle
+  * Tube
+  * Restrictor
+
+## Software
+
+All parts sliced (aka rendered) using PrusaSlicer 2.9.2
+
+Full print settings found here:\
+[0.4mm Nozzle](0.4nozzle_settings_no_support.ini)\
+[0.6mm Nozzle](0.6nozzle_settings_no_support.ini)
+
+### Key Settings
+* No skirt, no brim, no support material, no raft 
+* First layer speed: 10mm/s 
+* First layer height: 0.2mm 
+* Infill density: 5%
+* Layer Height:
+  * For **0.4mm** Nozzle -> 0.3mm layer height
+  * For **0.6mm** Nozzle -> 0.4mm layer height
+  
+
+# Acknowledgments - Special Thanks to:
+
+* Original designs by [Aaron Crane](https://github.com/atcrane9)
+* [The AER Lab](https://github.com/AER-Lab)
+* First iteration of Tube, Restrictor (Insert), and Flange designed by [Matt Gaidica](https:// github.com/mattgaidica)
