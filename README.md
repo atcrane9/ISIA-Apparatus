@@ -38,6 +38,12 @@ Full print settings found here:\
   * For **<ins>0.6mm</ins>** Nozzle -> 0.4mm layer height
 
 # Cage Construction
+1. Place Inner Gate on the inside of ISIA cage bottom, with the threads poking through the 51mm hole
+2. Screw Outer Gate (F) onto the threads of the Inner Gate (E)
+   *There are small ridges outside of the Outer Gates (F) that go up ~3/4 of the height, leaving a small gap. This gap indicates the top of the Outer Gate (F), which is the side that screws onto the Inner Gate (E)
+3. Repeat for both 51mm diameter holes
+
+### For a single ISIA cage:
 
   
 
