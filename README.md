@@ -7,7 +7,7 @@ The link to methods paper for this apparatus can be found [here] ()
 ## Hardware
 
 All files were printed using a Prusa i3 MKS3\
-Nozzles used were either 0.4mm or 0.6mm, depending on specific part (Instructions on how to change the nozzles [here](https://help.prusa3d.com/article/changing-or-replacing-the-nozzle-mk2-5-s-mk3-s-mk3-5-s_2069))
+Nozzles used were either 0.4mm or 0.6mm, depending on specific part (Instructions for changing the nozzles [here](https://help.prusa3d.com/article/changing-or-replacing-the-nozzle-mk2-5-s-mk3-s-mk3-5-s_2069))
 * **<ins>Must</ins>** be printed using **<ins>0.4mm nozzle</ins>**
   * [Cap](STL_Files/ISIA_Cap.stl)
   * [Adapter](STL_Files/ISIA_Adapter.stl)
