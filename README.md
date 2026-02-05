@@ -13,6 +13,9 @@ Nozzles used were either 0.4mm or 0.6mm, depending on specific part (Instruction
   * [Adapter](STL_Files/ISIA_Adapter.stl)
   * [Inner Gate](STL_Files/ISIA_Inner_Gate.stl)
   * [Outer Gate](STL_Files/ISIA_Outer_Gate.stl)
+
+_Note: These 4 parts contain threads that allow them to screw together. However, the threads must be "broken in" after printing, which is done by repeatedly screwing/unscrewing the parts with each other until they can easily twist the full range with minimal friction_
+
 * Can be printed using **<ins>0.6mm nozzle</ins>**
   * [Tube](STL_Files/ISIA_Tube.stl)
   * [Restrictor](STL_Files/ISIA_Restrictor.stl)
@@ -33,6 +36,9 @@ Full print settings found here:\
 * Layer Height:
   * For **<ins>0.4mm</ins>** Nozzle -> 0.3mm layer height
   * For **<ins>0.6mm</ins>** Nozzle -> 0.4mm layer height
+
+# Cage Construction
+
   
 
 # Acknowledgments
