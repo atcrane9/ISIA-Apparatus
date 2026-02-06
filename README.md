@@ -37,7 +37,7 @@ Full print settings found here:\
   * For **<ins>0.4mm</ins>** Nozzle -> 0.3mm layer height
   * For **<ins>0.6mm</ins>** Nozzle -> 0.4mm layer height
 
-# ISIA System Construction
+# ISIA Apparatus Construction
 _Note: See [Methods Paper]() for guide on how to modify mouse cages to work with this system_
 1. Place Inner Gate on the inside of ISIA cage bottom, with the threads poking through the 51mm cage hole
    <p>
