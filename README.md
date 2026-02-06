@@ -14,11 +14,13 @@ Nozzles used were either 0.4mm or 0.6mm, depending on specific part (Instruction
   * [Inner Gate](STL_Files/ISIA_Inner_Gate.stl)
   * [Outer Gate](STL_Files/ISIA_Outer_Gate.stl)
 
-_Note: These 4 parts contain threads that allow them to screw together. However, the threads must be "broken in" after printing, which is done by repeatedly screwing/unscrewing the parts with each other until they can easily twist the full range with minimal friction_
+_Note: These 4 parts contain threads that allow them to screw together. However, the threads must be "broken in" after printing, which is done by repeatedly screwing/unscrewing the parts with each other until they can easily twist the full range with minimal friction._
 
 * Can be printed using **<ins>0.6mm nozzle</ins>**
   * [Tube](STL_Files/ISIA_Tube.stl)
   * [Restrictor](STL_Files/ISIA_Restrictor.stl)
+
+_Note: While all other parts are reusable between experiments after cleaning, the Restictors are not resuasble, as the restricted mice often slightly chew on them in an attempt to reach the other cage. We advise printing new Restrictors for each experiment, and disposing of them when the experiment ends._
 
 ## Software
 
