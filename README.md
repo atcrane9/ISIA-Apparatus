@@ -40,15 +40,12 @@ Full print settings found here:\
 # Cage Construction
 1. Place Inner Gate on the inside of ISIA cage bottom, with the threads poking through the 51mm cage hole
    <p>
-    <img src= >
+    <img src=Images/Inner_Gate_Placement.jpg width="250">
    </p>
-2. Screw Outer Gate (F) onto the threads of the Inner Gate (E)
+2. Screw Outer Gate onto the threads of the Inner Gate
+   * There are small ridges outside of the Outer Gates that go up ~3/4 of the height, leaving a small gap. This gap indicates the top of the Outer Gate, which is the side that screws onto the Inner Gate
    <p>
-    <img src= >
-   </p>
-   * There are small ridges outside of the Outer Gates (F) that go up ~3/4 of the height, leaving a small gap. This gap indicates the top of the Outer Gate (F), which is the side that screws onto the Inner Gate (E)
-   <p>
-    <img src= >
+    <img src=Images/Outer_Gate_Markup.jpg height="290"> <img src=Images/Constructed_Gate.jpg width="250">
    </p>
 4. Repeat for both 51mm diameter holes
 
