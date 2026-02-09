@@ -6,7 +6,7 @@ The link to Methods Paper for this apparatus can be found [here]()
 
 ## Hardware
 
-All files were printed using a Prusa i3 MKS3\
+All files were printed using a Prusa i3 MKS3, using OVERTURE PLA Plus (PLA+) 1.75mm Professional Toughness filament\
 Painter's tape was put on print bed to increase print adhesion with bed
 * Make sure tape is completely flat
 * No gaps between tape pieces
