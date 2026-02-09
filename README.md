@@ -74,7 +74,7 @@ _Note: See [Methods Paper]() for guide on how to modify mouse cages to work with
    </p>
 * Connect Tube to Adapter
   <p>
-    <img src=Images/Tube_to_Adapter.jpg height="290"> <img src=Images/Tube_Connected.jpg height="290">
+    <img src=Images/Tube_to_Adapter.jpg height="290"> +
    </p>
 * Connect second ISIA cage to other end of Tube
 ### To Restrict Mice
@@ -90,7 +90,7 @@ _Note: See [Methods Paper]() for guide on how to modify mouse cages to work with
    </p>
 3. Reconnect Tube to Adapter
    <p>
-    <img src=Images/RestrictorTube_to_Gate.jpg height="290"> <img src=Images/Tube_Connected.jpg height="290">
+    <img src=Images/RestrictorTube_to_Gate.jpg height="290"> +
    </p>
    Should look like this from inside:<br/>
    <img src=Images/RestrictorTube_Inside.jpg height="290">
