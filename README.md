@@ -106,4 +106,4 @@ _Note: See [Methods Paper]() for guide on how to modify mouse cages to work with
 
 * [Aaron Crane](https://github.com/atcrane9) - Original designs for the Cap, Adapter, Inner and Outer Gates, updates to the Tube design, and compatibility of entire ensamble
 * [The AER Lab](https://github.com/AER-Lab)
-* [Matt Gaidica](https:// github.com/mattgaidica) - First iteration design of Tube, Restrictor (Insert), and Flange
+* [Matt Gaidica](https://github.com/mattgaidica) - First iteration design of Tube, Restrictor (Insert), and Flange
