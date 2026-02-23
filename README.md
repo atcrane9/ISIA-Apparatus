@@ -6,8 +6,8 @@ The link to Methods Paper for this apparatus can be found [here]()
 
 ## Hardware
 
-All files were printed using a Prusa i3 MKS3, using OVERTURE PLA Plus (PLA+) 1.75mm Professional Toughness filament\
-Painter's tape was put on print bed to increase print adhesion with bed
+All files were printed using a Prusa i3 MKS3, using OVERTURE PLA Plus (PLA+) 1.75mm Professional Toughness filament.\
+Painter's tape was put on print bed to increase print adhesion with bed.
 * Make sure tape is completely flat
 * No gaps between tape pieces
 * If tape tears when removing print, replace with new piece
@@ -24,6 +24,10 @@ _Note: These 4 parts contain threads that allow them to screw together. However,
 * Can be printed using **<ins>0.6mm nozzle</ins>**
   * [Tube](STL_Files/ISIA_Tube.stl)
   * [Restrictor](STL_Files/ISIA_Restrictor.stl)
+
+### Cleaning
+To clean the ISIA parts for reuse between experiments, scrub all surfaces vigorously using a sponge and dish soap.
+* For the Tube, instead put dish soap on a toothbrush and scrub the inside and outside surfaces vigorously
 
 _Note: While all other parts are reusable between experiments after cleaning, the Restictors are not resuasble, as the restricted mice often slightly chew on them in an attempt to reach the other cage. We advise printing new Restrictors for each experiment, and disposing of them when the experiment ends._
 
