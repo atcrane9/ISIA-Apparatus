@@ -77,10 +77,14 @@ _Note: See [Methods Paper]() for guide on how to modify mouse cages to work with
     <img src=Images/Adapter_to_Gate.jpg height="290"> <img src=Images/Adapter_Connected.jpg height="290">
    </p>
 * Connect Tube to Adapter
+  * _Note: The tube and adapter slide together, there is no screw with this connection_
   <p>
     <img src=Images/Tube_to_Adapter.jpg height="290"> <img src=Images/Tube_Connected.jpg height="290">
    </p>
 * Connect second ISIA cage to other end of Tube
+  * Make sure that water bottle holes are both facing the same direction
+    * If they are opposite, swap the Cap and Adapter on one of the cages
+  * Make sure to firmly push cages together to prevent tube from falling out
 ### To Restrict Mice
 1. Separate cage containing restricted mouse from the tube
    <!-- * Can temporarily block open Gate with a Cap to prevent mice from escaping
